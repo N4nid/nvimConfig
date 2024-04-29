@@ -33,7 +33,6 @@ return {
   { "glepnir/zephyr-nvim" },
   { "ribru17/bamboo.nvim" },
   { "sainnhe/everforest" },
-  { "lukas-reineke/headlines.nvim" },
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
   { "sainnhe/sonokai" },
 }
