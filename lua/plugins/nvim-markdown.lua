@@ -1,4 +1,5 @@
 return {
+  { "dhruvasagar/vim-table-mode" },
   {
     "epwalsh/obsidian.nvim",
     version = "*", -- recommended, use latest release instead of latest commit
